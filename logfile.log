@@ -1,0 +1,5 @@
+2021-10-22 21:46:50,244 INFO  [Log] home_page() PASSED 
+2021-10-22 21:46:58,342 INFO  [Log] login_page() PASSED 
+2021-10-22 21:47:15,103 INFO  [Log] product_page() PASSED 
+2021-10-22 21:47:21,743 INFO  [Log] product_detail_page() PASSED 
+2021-10-22 21:47:24,777 INFO  [Log] payment_page() PASSED 
